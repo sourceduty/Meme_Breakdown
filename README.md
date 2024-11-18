@@ -1,4 +1,4 @@
-![Meme Breakdown](https://github.com/user-attachments/assets/649da3c2-a4e5-450d-9631-c69d19cd69ac)
+![Meme Breakdown](https://github.com/user-attachments/assets/05655b16-a0e3-4883-a88b-fd21384b29bc)
 
 > Overanalyze and breakdown memes with humor.
 #

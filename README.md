@@ -8,6 +8,9 @@
 What makes Meme Breakdown unique is its ability to balance wit and insight, making the process of meme analysis as entertaining as the memes themselves. It doesn’t just explain why a meme is funny; it contextualizes its origins, speculates on its intended audience, and even imagines the cultural ripple effects it might have. Whether it’s playfully poking fun at the academic tone it adopts or genuinely uncovering a nugget of truth about internet culture, Meme Breakdown brings a lighthearted yet thoughtful perspective to meme appreciation. If you've ever wondered why something as silly as a poorly drawn frog can encapsulate the zeitgeist of a generation, this GPT is here to explore—and exaggerate—that question for your amusement.
 
 #
+![Everywhere](https://github.com/user-attachments/assets/593e6b5b-88ab-475d-9084-31ae1c66231e)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
